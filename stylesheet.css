@@ -129,3 +129,10 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.cropped1 {
+    width: 550px; /* width of container */
+    height: 250px; /* height of container */
+    object-fit: cover;
+    /* border: 5px solid black; */
+}
